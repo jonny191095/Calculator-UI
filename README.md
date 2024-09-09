@@ -10,3 +10,11 @@ To run the Calculator UI locally for testing follow these steps:
 
 Optionally to run tests:
  - npm test
+
+
+Future enhancements:
+ - Support for additional/more complex operations, e.g. MOD, DIV etc.
+ - Support for multiple operations and increased amount of numbers that can be submitted at once. Dynamically increasing.
+ - Add history
+ - Add store and retrieve of result. This could be as simple as adding a Copy to Clipboard button.
+ - Different browser testing/support. Currently only tested in Chrome
